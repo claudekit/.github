@@ -48,10 +48,19 @@ Both Engineer and Marketing Kits at a $49 discount.
 npm install -g claudekit-cli
 
 # Initialize a new project
-claudekit init my-project
+ck new
 
 # Or add to existing project
-claudekit add
+ck init
+
+# Install ClaudeKit globally
+ck init -g
+
+# Install beta version
+ck init -g --beta
+
+# Update `ck` cli
+ck update
 ```
 
 ## Repositories
