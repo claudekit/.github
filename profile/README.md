@@ -1,5 +1,9 @@
 # ClaudeKit
 
+![ClaudeKit banner](./intro.png)
+
+> 🌐 Visit [claudekit.cc](https://claudekit.cc)
+
 **Premium Claude Code Starter Kits for Solo Developers & Indie Makers**
 
 Build faster with AI-powered development workflows. ClaudeKit provides production-ready boilerplates, 50+ slash commands, multi-agent orchestration, and comprehensive automation tools designed specifically for Claude Code.
